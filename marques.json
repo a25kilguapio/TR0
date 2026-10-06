@@ -1,0 +1,484 @@
+{
+  "preguntes": [
+    {
+      "id": 1,
+      "pregunta": "Quina marca utilitza l'eslògan 'Just Do It'?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Adidas"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Nike"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Puma"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Reebok"
+        }
+      ],
+      "resposta_correcta": 2,
+      "imatge": "https://cdn.simpleicons.org/nike"
+    },
+    {
+      "id": 2,
+      "pregunta": "A quina marca pertany el logotip de les tres ratlles?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Puma"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Adidas"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Under Armour"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Kappa"
+        }
+      ],
+      "resposta_correcta": 2,
+      "imatge": "https://cdn.simpleicons.org/adidas"
+    },
+    {
+      "id": 3,
+      "pregunta": "Quina marca té com a logotip una poma mossegada?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Samsung"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Huawei"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Apple"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Xiaomi"
+        }
+      ],
+      "resposta_correcta": 3,
+      "imatge": "https://cdn.simpleicons.org/apple"
+    },
+    {
+      "id": 4,
+      "pregunta": "Els arcs daurats són el símbol de quina marca?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Burger King"
+        },
+        {
+          "id": 2,
+          "etiqueta": "McDonald's"
+        },
+        {
+          "id": 3,
+          "etiqueta": "KFC"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Wendy's"
+        }
+      ],
+      "resposta_correcta": 2,
+      "imatge": "https://cdn.simpleicons.org/mcdonalds"
+    },
+    {
+      "id": 5,
+      "pregunta": "Quina marca de begudes utilitza un logotip vermell amb lletra cursiva blanca?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Pepsi"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Coca-Cola"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Fanta"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Dr Pepper"
+        }
+      ],
+      "resposta_correcta": 2,
+      "imatge": "https://cdn.simpleicons.org/cocacola"
+    },
+    {
+      "id": 6,
+      "pregunta": "El logotip d'un felí saltant pertany a quina marca esportiva?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Puma"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Nike"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Lacoste"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Asics"
+        }
+      ],
+      "resposta_correcta": 1,
+      "imatge": "https://cdn.simpleicons.org/puma"
+    },
+    {
+      "id": 7,
+      "pregunta": "Quina marca de cotxes utilitza una estrella de tres puntes com a logotip?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "BMW"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Mercedes-Benz"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Audi"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Volkswagen"
+        }
+      ],
+      "resposta_correcta": 2,
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg/330px-Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg.png"
+    },
+    {
+      "id": 8,
+      "pregunta": "Els quatre cercles entrellaçats són el logotip de quina marca?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Audi"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Opel"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Seat"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Peugeot"
+        }
+      ],
+      "resposta_correcta": 1,
+      "imatge": "https://cdn.simpleicons.org/audi"
+    },
+    {
+      "id": 9,
+      "pregunta": "Quina marca japonesa d'automòbils té un logotip amb tres el·lipses?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Honda"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Toyota"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Nissan"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Mazda"
+        }
+      ],
+      "resposta_correcta": 2,
+      "imatge": "https://cdn.simpleicons.org/toyota"
+    },
+    {
+      "id": 10,
+      "pregunta": "Una sirena verda de dues cues és el logotip de quina marca?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Costa Coffee"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Starbucks"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Nespresso"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Tim Hortons"
+        }
+      ],
+      "resposta_correcta": 2,
+      "imatge": "https://cdn.simpleicons.org/starbucks"
+    },
+    {
+      "id": 11,
+      "pregunta": "Quina marca de begudes utilitza un cercle blau, blanc i vermell com a logotip?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Coca-Cola"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Pepsi"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Sprite"
+        },
+        {
+          "id": 4,
+          "etiqueta": "7Up"
+        }
+      ],
+      "resposta_correcta": 2,
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pepsi_2023.svg/330px-Pepsi_2023.svg.png"
+    },
+    {
+      "id": 12,
+      "pregunta": "El cavall negre saltant sobre fons groc és l'emblema de quina marca?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Lamborghini"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Porsche"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Ferrari"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Maserati"
+        }
+      ],
+      "resposta_correcta": 3,
+      "imatge": "https://cdn.simpleicons.org/ferrari"
+    },
+    {
+      "id": 13,
+      "pregunta": "El cocodril verd és el símbol de quina marca de roba?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Lacoste"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Polo Ralph Lauren"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Fred Perry"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Tommy Hilfiger"
+        }
+      ],
+      "resposta_correcta": 1,
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lacoste_Logo_2.jpg/500px-Lacoste_Logo_2.jpg"
+    },
+    {
+      "id": 14,
+      "pregunta": "Quina marca de tecnologia utilitza un logotip amb el nom en blau dins d'un òval blanc?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "LG"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Samsung"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Sony"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Panasonic"
+        }
+      ],
+      "resposta_correcta": 2,
+      "imatge": "https://cdn.simpleicons.org/samsung"
+    },
+    {
+      "id": 15,
+      "pregunta": "Quina marca de roba esportiva té com a logotip un cavall de pòlo?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Lacoste"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Polo Ralph Lauren"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Tommy Hilfiger"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Fred Perry"
+        }
+      ],
+      "resposta_correcta": 2,
+      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ralph_Lauren_logo.svg/500px-Ralph_Lauren_logo.svg.png"
+    },
+    {
+      "id": 16,
+      "pregunta": "Quina marca de motos i cotxes japonesa utilitza un logotip amb una 'H' estilitzada?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Honda"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Hyundai"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Yamaha"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Suzuki"
+        }
+      ],
+      "resposta_correcta": 1,
+      "imatge": "https://cdn.simpleicons.org/honda"
+    },
+    {
+      "id": 17,
+      "pregunta": "Quina marca de tecnologia té com a logotip una poma... però mossegada per un mos i sense colors des del 1998?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Apple"
+        },
+        {
+          "id": 2,
+          "etiqueta": "BlackBerry"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Nokia"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Motorola"
+        }
+      ],
+      "resposta_correcta": 1,
+      "imatge": "https://cdn.simpleicons.org/apple"
+    },
+    {
+      "id": 18,
+      "pregunta": "Quina cadena de menjar ràpid té un logotip amb un ninot barbut anomenat 'Colonel'?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Burger King"
+        },
+        {
+          "id": 2,
+          "etiqueta": "KFC"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Subway"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Taco Bell"
+        }
+      ],
+      "resposta_correcta": 2,
+      "imatge": "https://cdn.simpleicons.org/kfc"
+    },
+    {
+      "id": 19,
+      "pregunta": "Quina marca d'esports utilitza el símbol d'una 'V' invertida (un check)?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "Nike"
+        },
+        {
+          "id": 2,
+          "etiqueta": "Adidas"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Puma"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Under Armour"
+        }
+      ],
+      "resposta_correcta": 1,
+      "imatge": "https://cdn.simpleicons.org/nike"
+    },
+    {
+      "id": 20,
+      "pregunta": "Quina marca sueca de mobles té un logotip blau i groc?",
+      "respostes": [
+        {
+          "id": 1,
+          "etiqueta": "IKEA"
+        },
+        {
+          "id": 2,
+          "etiqueta": "H&M"
+        },
+        {
+          "id": 3,
+          "etiqueta": "Jysk"
+        },
+        {
+          "id": 4,
+          "etiqueta": "Clas Ohlson"
+        }
+      ],
+      "resposta_correcta": 1,
+      "imatge": "https://cdn.simpleicons.org/ikea"
+    }
+  ]
+}

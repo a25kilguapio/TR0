@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administració de preguntes</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+<body class="bg-light">
+    <div class="container py-4">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1>Administració de preguntes</h1>
+            <a href="index.html" class="btn btn-outline-secondary">Anar al joc</a>
+        </div>
+
+        <div class="card shadow-sm mb-4">
+            <div class="card-body">
+                <h5 class="card-title" id="titolFormulari">Nova pregunta</h5>
+                <form id="formPregunta">
+                    <input type="hidden" id="editId">
+
+                    <div class="mb-2">
+                        <label class="form-label">Pregunta</label>
+                        <input type="text" id="campPregunta" class="form-control" required>
+                    </div>
+
+                    <div class="row mb-2">
+                        <div class="col-md-6 mb-2">
+                            <label class="form-label">Resposta 1</label>
+                            <input type="text" id="campResposta1" class="form-control" required>
+                        </div>
+                        <div class="col-md-6 mb-2">
+                            <label class="form-label">Resposta 2</label>
+                            <input type="text" id="campResposta2" class="form-control" required>
+                        </div>
+                        <div class="col-md-6 mb-2">
+                            <label class="form-label">Resposta 3</label>
+                            <input type="text" id="campResposta3" class="form-control" required>
+                        </div>
+                        <div class="col-md-6 mb-2">
+                            <label class="form-label">Resposta 4</label>
+                            <input type="text" id="campResposta4" class="form-control" required>
+                        </div>
+                    </div>
+
+                    <div class="mb-2">
+                        <label class="form-label">Resposta correcta</label>
+                        <select id="campCorrecta" class="form-select">
+                            <option value="1">Resposta 1</option>
+                            <option value="2">Resposta 2</option>
+                            <option value="3">Resposta 3</option>
+                            <option value="4">Resposta 4</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Imatge</label>
+                        <input type="file" id="campImatge" class="form-control" accept="image/*">
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Desar</button>
+                    <button type="button" id="btnCancelar" class="btn btn-secondary">Cancelar edició</button>
+                </form>
+            </div>
+        </div>
+
+        <table class="table bg-white shadow-sm">
+            <thead>
+                <tr>
+                    <th>Imatge</th>
+                    <th>Pregunta i respostes</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody id="llistaPreguntes"></tbody>
+        </table>
+    </div>
+    <script src="admin.js"></script>
+</body>
+</html>
